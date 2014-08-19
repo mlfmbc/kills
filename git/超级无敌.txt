@@ -3,3 +3,7 @@
 
 327842977278179
 07-24 16:33:02.473: D/cocos2d-x debug info(15369): Get data from file(Res/user/user_camp_range_frame_intelligence.png) failed!
+
+
+
+阿hvu和fiu
